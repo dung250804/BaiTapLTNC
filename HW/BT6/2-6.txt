@@ -1,0 +1,7 @@
+2. - Chạy 0 dừng
+   - Thiếu BaseCase,  chưa return 1 giá trị nhất định.
+3. - Chưa giảm N dẫn đến đệ quy vô tận.
+
+4. - Gọi đệ quy quá nhiều dẫn đến quá tải bộ nhớ
+
+6. - 40000
